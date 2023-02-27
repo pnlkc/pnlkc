@@ -1,3 +1,3 @@
-![PNLKC's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnlkc&show_icons=true&theme=calm)
+# PNLKC's Github 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnlkc&layout=Demo&theme=calm)
+![PNLKC's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnlkc&show_icons=true&theme=calm)
