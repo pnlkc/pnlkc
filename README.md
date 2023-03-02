@@ -1,6 +1,8 @@
 # Jichan Choi's Github 
 
-![PNLKC's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnlkc&show_icons=true&theme=calm)
+![PNLKC's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnlkc&show_icons=true&theme=calm)  
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pnlkc)](https://solved.ac/pnlkc/)
 
 
 ## Skills
