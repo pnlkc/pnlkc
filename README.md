@@ -12,6 +12,3 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-285F4.svg?&style=for-the-badge&logo=Jetpack%20Compose&logoColor=white)
 
 ## Study
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
