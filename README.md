@@ -1,5 +1,4 @@
 # Jichan Choi's Github 
-
 ![PNLKC's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnlkc&show_icons=true&theme=calm)  
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pnlkc)](https://solved.ac/pnlkc/)
@@ -10,5 +9,6 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=black)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-285F4.svg?&style=for-the-badge&logo=Jetpack%20Compose&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)
 
 ## Study
